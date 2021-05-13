@@ -1,0 +1,23 @@
+---
+title: Dog with a Blog
+author: ''
+date: '2021-05-12'
+slug: dog-with-a-blog
+categories: []
+tags: []
+description: ''
+---
+
+```{R}
+
+summary(iris)
+
+
+```
+
+
+
+
+[Link to project 1](/project/project1/)
+
+[Link to google](https://www.google.com)
